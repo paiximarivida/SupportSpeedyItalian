@@ -1,12 +1,14 @@
 # Support of the app Speedy Italian
 
+![iconeSuporte](https://user-images.githubusercontent.com/37581896/83603413-c638de00-a54a-11ea-8872-9103ca813890.png)
 
-## Privacy Policy 
+
+## 1. Privacy Policy 
 Augusto Paixão, the main producer of Speedy Italian takes your privacy very seriously and will follow the highest standard to protect it. By using the app, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 All information collected is aggregated and anonymized to protect individual users. Data is only used in aggregate form, as a statistical measure, and not in a manner that would identify you personally, in order to improve the app. Data on device type, operating system, and the user experience is automatically collected when using the product and solely used to optimize and improve the usability of Speedy Italian.
 
-# Frequent questions:
+# 2. Frequent questions:
 ## What devices can it be used on?
 The app is designed for devices with +iOS 13.0
 
